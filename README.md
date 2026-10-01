@@ -1,6 +1,5 @@
 # Student Resume Website
 
-**Mapped CO:** CO1, CO2
 
 **Objective:** Develop a professional personal resume website using only HTML5.
 
